@@ -124,7 +124,7 @@ openSUSE:Backports:SLE-15-SP6/dssim,5,libwebp,v1.2.1-39-g973390b
 openSUSE:Backports:SLE-15-SP6/dssim,5,Little-CMS,lcms2.13.1-82-gbe25a63
 openSUSE:Backports:SLE-15-SP6/duc,4,uthash,0^20130107.07bca4ce0a21516334e8e82f5792cd6d74adb4ff
 openSUSE:Backports:SLE-15-SP6/ecwolf,3,bzip2,bzip2-1.0.6
-openSUSE:Backports:SLE-15-SP6/ecwolf,3,libpng,libpng-1.6.12-signed
+openSUSE:Backports:SLE-15-SP6/ecwolf,3,libpng,v1.5.9-735-g238e764
 openSUSE:Backports:SLE-15-SP6/ecwolf,3,zlib,v1.2.7
 openSUSE:Backports:SLE-15-SP6/efl,7,lz4,v1.9.2-41-g7224f9b
 openSUSE:Backports:SLE-15-SP6/efl,7,xxHash,v0.6.4-63-gb39d9be
@@ -575,7 +575,7 @@ openSUSE:Backports:SLE-15-SP6/seamonkey,11,brotli,v1.0.9
 openSUSE:Backports:SLE-15-SP6/seamonkey,11,curl,curl-7_64_0-129-ge1be825
 openSUSE:Backports:SLE-15-SP6/seamonkey,11,freetype,VER-2-10-1-123-ga45da25
 openSUSE:Backports:SLE-15-SP6/seamonkey,11,googletest,release-1.10.0-677-gc5be393
-openSUSE:Backports:SLE-15-SP6/seamonkey,11,harfbuzz,2.3.1-163-g3f84589
+openSUSE:Backports:SLE-15-SP6/seamonkey,11,harfbuzz,2.4.0
 openSUSE:Backports:SLE-15-SP6/seamonkey,11,hunspell,v1.6.2-217-g58dfe79
 openSUSE:Backports:SLE-15-SP6/seamonkey,11,libevent,release-2.1.11-stable-120-g1c9cc07
 openSUSE:Backports:SLE-15-SP6/seamonkey,11,libexpat,R_2_2_0-251-g913851a
@@ -1044,7 +1044,7 @@ openSUSE:Factory/dssim,3,Little-CMS,lcms2.13.1-82-gbe25a63
 openSUSE:Factory/DSView,3,minizip-ng,0^20181101.252588f6a78bd7656f4e03d1b236695b3182ff7d
 openSUSE:Factory/duc,4,uthash,0^20130107.07bca4ce0a21516334e8e82f5792cd6d74adb4ff
 openSUSE:Factory/dwarves,46,libbpf,v1.5.0-58-g39a589c
-openSUSE:Factory/ecwolf,5,libpng,libpng-1.6.12-signed
+openSUSE:Factory/ecwolf,5,libpng,v1.5.9-735-g238e764
 openSUSE:Factory/editorconfig-core-c,14,uthash,v2.1.0-2-gcfc95db
 openSUSE:Factory/edk2,15,brotli,v1.0.9-74-g6db17c8
 openSUSE:Factory/edk2,15,googletest,release-1.12.0-77-gd1a0039
